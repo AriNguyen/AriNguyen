@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ari
 
-- 🖥️ I’m currently software engineer @ Tes;a
+- 🖥️ I’m currently software engineer @ Tesla
 - 🤖 I’m intertested in distributed system, AI/ML, and Computer Vision
 - 📫 How to reach me: aringuyen3132@gmail.com
 - 😄 Pronouns: she/hers
